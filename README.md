@@ -13,7 +13,7 @@
 
 
 ## Recommendations
-### From the results seen in the graph ()
+### From the results seen in the graph (https://github.com/arjunkannawar/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 #### - Promomte usage of Services in the Rural areas as the Average fare per ride is higher compared to the Urban and suburban areas.
 #### - Reduction of prices over lond distance rides. This reduction will promote people to use the service in the suburban area.
 #### - The usage of the service is most prominent in the urban areas and reduces substantially in the suburban and rural areas. It would help to invest in the suburban and Rural areas to increase usage.
